@@ -1,8 +1,8 @@
-# <span style="color: red">THIS IS A COPY OF edwardyeeks (edwardyeeks#6042) Decontaminator Purge Bucket & Nozzle Scrubber</span>
+# THIS IS A COPY OF edwardyeeks Decontaminator Purge Bucket & Nozzle Scrubber
 <div style="text-align: right"><sub>A Team Dropbear Production</sub></div>
 <img align="right" width="100" height="100" src="Images/db.png">
 
-# Decontaminator Purge Bucket & Nozzle Scrubber
+## Decontaminator Purge Bucket & Nozzle Scrubber
 
 This is a removable purge bucket with a nozzle scrubber. It is compatible with Voron 1.8 and Voron 2 printers (v2.4, v2.2 and v2.1). I noticed that the current nozzle scrubber design of the Voron was not very effective at containing filament debris and bits.
 
