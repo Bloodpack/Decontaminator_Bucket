@@ -1,4 +1,4 @@
-<span style="color: red"># THIS IS A COPY OF edwardyeeks (edwardyeeks#6042) Decontaminator Purge Bucket & Nozzle Scrubber</span>
+# <span style="color: red">THIS IS A COPY OF edwardyeeks (edwardyeeks#6042) Decontaminator Purge Bucket & Nozzle Scrubber</span>
 <div style="text-align: right"><sub>A Team Dropbear Production</sub></div>
 <img align="right" width="100" height="100" src="Images/db.png">
 
